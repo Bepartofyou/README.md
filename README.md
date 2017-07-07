@@ -13,10 +13,6 @@
 这是一段普通的文本,直接回车不能换行，<br>
 要使用\<br>  
 
-[我的博客](https://www.baidu.com/)
-
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
-
     Hello,大家好，我是果冻虾仁。  
     
     欢迎到访  
@@ -36,9 +32,10 @@ Thank `You` . Please `Call` Me `Coder`
 >>>> 平衡二叉树 
 >>>>> 满二叉树
 
-![](http://www.baidu.com/img/bdlogo.gif)  
-[![baidu-logo]](https://www.baidu.com/)
-[baidu-logo]:https://github.com/Bepartofyou/README/tree/master/img/zhihu.png "百度logo" 
+
+[![csdn-logo]](http://blog.csdn.net/guodongxiaren)
+[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
+[csdn-logo]:./zhihu.png "我的CSDN博客"
 
  ```c
  int main(int argc, char** argv)
