@@ -37,8 +37,8 @@ Thank `You` . Please `Call` Me `Coder`
 >>>>> 满二叉树
 
 ![](http://www.baidu.com/img/bdlogo.gif)  
-[![baidu]](https://www.baidu.com/)
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+[![baidu-logo]](https://www.baidu.com/)
+[baidu-logo]:https://github.com/Bepartofyou/README/tree/master/img/zhihu.png "百度logo" 
 
  ```c
  int main(int argc, char** argv)
