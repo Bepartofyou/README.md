@@ -1,5 +1,7 @@
 ### general picture
-![](/images/zhihu.png)
-![zhihu](/images/zhihu.png)
+![my logo](/images/Bepartofyou.jpg)  `no tips`  <br>
+![my logo](/images/Bepartofyou.jpg "this is my logo!")  `tips` <br>
+
+
 ![](/images/zhihu.png "tips")
 ![zhihu](/images/zhihu.png "tips")
