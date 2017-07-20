@@ -6,7 +6,11 @@
 ![baidu logo](http://www.baidu.com/img/bdlogo.gif) `no tips`  
 ![baidu logo](http://www.baidu.com/img/bdlogo.gif "this is baidu gif") `with tips` <br>
 
+
+**********************************************
+
 ### picture with hyperlink
+	
 
 [![baidu]](http://baidu.com)
 [![mylogo]](https://github.com/Bepartofyou)
