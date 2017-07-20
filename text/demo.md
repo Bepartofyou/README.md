@@ -17,11 +17,11 @@ no `can` no `bb`  <br>
 * 工具
 * 语言
     * 编译型
-        * C 
-        * golang
+        * C
+        * golang
     * 脚本型
         * python
-        * js
+        * js
         
 ### 缩进
 > 数据结构
