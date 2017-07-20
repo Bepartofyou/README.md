@@ -9,7 +9,7 @@
 ### picture with hyperlink
 
 [![baidu]](http://baidu.com)
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
-
 [![mylogo]](https://github.com/Bepartofyou)
+
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
 [mylogo]:/images/Bepartofyou.jpg "this is my github logo"
