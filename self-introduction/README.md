@@ -4,8 +4,8 @@
 音视频处理，流媒体相关。现居北京。
 
 ## XXOO
-1.xxooxxooxxoo。  
-2.ooxxooxxooxx。
+1.xxooxxooxxoo.
+2.ooxxooxxooxx.
 
 ## 我在这里
 
@@ -20,7 +20,7 @@
 ## XXOO
 xxooxxoo：
 * xxx
-* xxxx
+* xxx
 * xxx
 
 *******************
