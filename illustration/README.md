@@ -7,7 +7,7 @@
 ### 插入图片加悬停
 	![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
-### 插入图片加超链接(need an blanc line)
+### 插入图片加超链接(need an blank line)
 	[![baidu]](http://baidu.com)
 	
 	[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
