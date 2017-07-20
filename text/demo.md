@@ -4,25 +4,23 @@
     ........   
 
 ### 文字高亮
-    you `can` you `up` <br>
-    no `can` no `bb`  <br>
-    ..... `....`  <br>
+you `can` you `up` <br>
+no `can` no `bb`  <br>
+..... `....`  <br>
 
 ### 文字超链接
-[my github](https://github.com/Bepartofyou)
-[my github whit tips](https://github.com/Bepartofyou "tips")
+[my github](https://github.com/Bepartofyou)  <br>
+[my github whit tips](https://github.com/Bepartofyou "tips") <br>
 
 ### 插入符号
 
 * 工具
 * 语言
-    * 编译型
-        * C 
-            * c
-            * c++
+    * 编译型
+        * C 
         * golang
-    * 脚本型
-        * python
+    * 脚本型
+        * python
         * js
         
 ### 缩进
