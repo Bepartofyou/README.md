@@ -1,7 +1,9 @@
 ### general picture
-![my logo](/images/Bepartofyou.jpg)  `no tips`  <br>
-![my logo](/images/Bepartofyou.jpg "this is my logo!")  `tips` <br>
 
+![zhihu logo](/images/zhihu.png)    `no tips`  <br>
+![zhihu logo](/images/zhihu.png "this is zhihu logo!")   `tips` <br>
 
-![](/images/zhihu.png "tips")
-![zhihu](/images/zhihu.png "tips")
+***********************
+
+![baidu logo](http://www.baidu.com/img/bdlogo.gif) `no tips`  <br>
+![baidu logo](http://www.baidu.com/img/bdlogo.gif "this is baidu gif") `tips` <br>
